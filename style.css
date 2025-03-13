@@ -22,6 +22,7 @@ body
     background-color: hsl(0, 0%, 20%);
     padding: 1.5rem;
     margin:1.5rem;
+    max-width: 30rem;
     
 }
 #name
